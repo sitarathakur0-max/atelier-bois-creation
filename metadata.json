@@ -1,0 +1,6 @@
+{
+  "name": "Atelier Bois & Création",
+  "description": "Atelier d'artisanat du bois à Paris 11e. Création de mobilier en bois sur mesure, tables, étagères et pièces d'agencement intérieur d'exception.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
